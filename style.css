@@ -1,0 +1,51 @@
+.greeting {
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 20%;
+}
+
+.btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.navbar {
+    background-color: #9752cf;
+}
+
+.navbar-nav {
+    display: inline-flex;
+    align-items: flex-end;
+    margin-left: auto;
+}
+
+.nav-link {
+    margin: auto;
+    align-items: center;
+    margin-left: auto;
+    color: #fff;
+    font-size: large;
+}
+
+form {
+    border-bottom: 2px solid lightgray;
+}
+
+.response {
+    align-items: left;
+    margin-left: auto;
+    display:none;
+    padding: 50px;
+    opacity: 50%;
+    color: gray;
+}
+
+.highscores {
+    padding: 50px;
+    padding-top: 2%;
+    text-align: center;
+    margin: 10 20px;
+    background-color: #9752cf;
+    color: #fff;
+}
+
