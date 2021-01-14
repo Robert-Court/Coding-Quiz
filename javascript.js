@@ -130,6 +130,14 @@ var questions = [
     };
 
     //leaderboard (incomplete)
+
+    //declare variables
+    //check for existing storage items
+    //pussh existing storage items to arrays
+    // event listener for user initialInput
+    //push input to array
+    //call array into the DOM from the local storage
+    
     var initialForm = document.getElementById("initial-form");
     var initialInput = document.getElementById("initial-input");
     var leaderboard = document.querySelector("#leaderboard");
